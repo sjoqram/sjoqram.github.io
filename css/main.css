@@ -14,3 +14,13 @@ html {
 #mainh1 {
 	text-shadow: 2px;
 }
+
+
+@keyframes hide {
+  0% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+#svg-node {
+	animation: hide 10s ease infinite;
+}
