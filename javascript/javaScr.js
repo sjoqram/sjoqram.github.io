@@ -1,7 +1,7 @@
 
 
 function initAnimation(){
-	var ring = document.getElementsByClassName('chainring');
+	var ring = document.getElementsByClassName('svg-node');
 	
 }
 

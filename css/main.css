@@ -2,12 +2,17 @@ html {
 	margin: 0px;
 	padding: 0px;
 	border: 0px;
+}
+
+body {
+	background-image: url("bicycle-crossing_large.JPG");
+	background-repeat: no-repeat;
+	background-position: top center;
 	background-color: cadetblue;
 }
 
 .intro-block {
 	color: white;
-	background-color: darkgray;
 }
 
 
