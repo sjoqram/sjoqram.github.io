@@ -5,10 +5,10 @@ html {
 }
 
 body {
-	background-image: url("bicycle-crossing_large.JPG");
-	background-repeat: no-repeat;
-	background-position: top center;
 	background-color: cadetblue;
+	background-image: url(bicycle-crossing_large.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
 }
 
 .intro-block {
